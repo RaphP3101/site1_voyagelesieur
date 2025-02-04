@@ -130,6 +130,10 @@ h2{
     margin-bottom: 80px;
 }
 
+.conteneur-transport-invisible{
+    display: none;
+}
+
 h3{
     font-size: 36px;
     font-weight: 300;
